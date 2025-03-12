@@ -1,16 +1,35 @@
-## Hi there 👋
+# Welcome to My GitHub 👋
 
-<!--
-**ajitonelson/ajitonelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  [![Follow](https://img.shields.io/github/followers/ajitonelsonn?label=Follow&style=social)](https://github.com/ajitonelsonn)
+  
+</div>
 
-Here are some ideas to get you started:
+## ⚠️ Important Notice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **This is NOT my primary GitHub account.**  
+> This is a secondary profile I maintain for specific purposes.
+
+### 🔍 Find My Main Work Here:
+
+<div align="center">
+  
+  <a href="https://github.com/ajitonelsonn">
+    <img src="https://img.shields.io/badge/GitHub-ajitonelsonn-2ea44f?style=for-the-badge&logo=github" alt="Primary GitHub - ajitonelsonn">
+  </a>
+  
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitonelsonn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+
+---
+
+<div align="center">
+  <i>Stay curious & keep building! 🛠️🔥</i>
+</div>
